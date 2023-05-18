@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-05T07:45:03 IST" name="Default suite" finished-at="2022-11-05T07:45:03 IST" duration-ms="152">
+    <groups>
+    </groups>
+    <test started-at="2022-11-05T07:45:03 IST" name="Default test" finished-at="2022-11-05T07:45:03 IST" duration-ms="152">
+      <class name="testNG.WildAnimals2">
+        <test-method is-config="true" signature="welcome()[pri:0, instance:testNG.WildAnimals2@11bd0f3b]" started-at="2022-11-05T07:45:03 IST" name="welcome" finished-at="2022-11-05T07:45:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- welcome -->
+        <test-method signature="deer()[pri:0, instance:testNG.WildAnimals2@11bd0f3b]" started-at="2022-11-05T07:45:03 IST" name="deer" finished-at="2022-11-05T07:45:03 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deer -->
+        <test-method is-config="true" signature="visitagain()[pri:0, instance:testNG.WildAnimals2@11bd0f3b]" started-at="2022-11-05T07:45:03 IST" name="visitagain" finished-at="2022-11-05T07:45:03 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visitagain -->
+        <test-method is-config="true" signature="welcome()[pri:0, instance:testNG.WildAnimals2@11bd0f3b]" started-at="2022-11-05T07:45:03 IST" name="welcome" finished-at="2022-11-05T07:45:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- welcome -->
+        <test-method signature="dinasour()[pri:0, instance:testNG.WildAnimals2@11bd0f3b]" started-at="2022-11-05T07:45:03 IST" name="dinasour" finished-at="2022-11-05T07:45:03 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dinasour -->
+        <test-method is-config="true" signature="visitagain()[pri:0, instance:testNG.WildAnimals2@11bd0f3b]" started-at="2022-11-05T07:45:03 IST" name="visitagain" finished-at="2022-11-05T07:45:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visitagain -->
+      </class> <!-- testNG.WildAnimals2 -->
+      <class name="testNG.DomesticAnimals1">
+        <test-method is-config="true" signature="welcome()[pri:0, instance:testNG.DomesticAnimals1@73700b80]" started-at="2022-11-05T07:45:03 IST" name="welcome" finished-at="2022-11-05T07:45:03 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- welcome -->
+        <test-method signature="cow()[pri:1, instance:testNG.DomesticAnimals1@73700b80]" started-at="2022-11-05T07:45:03 IST" name="cow" finished-at="2022-11-05T07:45:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cow -->
+        <test-method signature="dog()[pri:2, instance:testNG.DomesticAnimals1@73700b80]" started-at="2022-11-05T07:45:03 IST" name="dog" finished-at="2022-11-05T07:45:03 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dog -->
+        <test-method is-config="true" signature="visitAgain()[pri:0, instance:testNG.DomesticAnimals1@73700b80]" started-at="2022-11-05T07:45:03 IST" name="visitAgain" finished-at="2022-11-05T07:45:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visitAgain -->
+      </class> <!-- testNG.DomesticAnimals1 -->
+      <class name="testNG.DomesticAnimals2">
+        <test-method is-config="true" signature="domesticAnimalsStarts2()[pri:0, instance:testNG.DomesticAnimals2@49c7b90e]" started-at="2022-11-05T07:45:03 IST" name="domesticAnimalsStarts2" finished-at="2022-11-05T07:45:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- domesticAnimalsStarts2 -->
+        <test-method signature="cat()[pri:0, instance:testNG.DomesticAnimals2@49c7b90e]" started-at="2022-11-05T07:45:03 IST" name="cat" finished-at="2022-11-05T07:45:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cat -->
+        <test-method signature="hen()[pri:0, instance:testNG.DomesticAnimals2@49c7b90e]" started-at="2022-11-05T07:45:03 IST" name="hen" finished-at="2022-11-05T07:45:03 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hen -->
+        <test-method is-config="true" signature="domesticAnimalsends2()[pri:0, instance:testNG.DomesticAnimals2@49c7b90e]" started-at="2022-11-05T07:45:03 IST" name="domesticAnimalsends2" finished-at="2022-11-05T07:45:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- domesticAnimalsends2 -->
+      </class> <!-- testNG.DomesticAnimals2 -->
+      <class name="testNG.WildAnimals1">
+        <test-method is-config="true" signature="wildAnimalsStart()[pri:0, instance:testNG.WildAnimals1@3e84448c]" started-at="2022-11-05T07:45:03 IST" name="wildAnimalsStart" finished-at="2022-11-05T07:45:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wildAnimalsStart -->
+        <test-method signature="lion()[pri:0, instance:testNG.WildAnimals1@3e84448c]" started-at="2022-11-05T07:45:03 IST" name="lion" finished-at="2022-11-05T07:45:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lion -->
+        <test-method signature="tiger()[pri:0, instance:testNG.WildAnimals1@3e84448c]" started-at="2022-11-05T07:45:03 IST" name="tiger" finished-at="2022-11-05T07:45:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tiger -->
+        <test-method is-config="true" signature="wildAnimalsEnds()[pri:0, instance:testNG.WildAnimals1@3e84448c]" started-at="2022-11-05T07:45:03 IST" name="wildAnimalsEnds" finished-at="2022-11-05T07:45:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wildAnimalsEnds -->
+      </class> <!-- testNG.WildAnimals1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
